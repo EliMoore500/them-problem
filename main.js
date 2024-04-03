@@ -18,6 +18,8 @@ function updateRadio(options) {
   form.innerHTML = yous
 }
 
+
+//I had to edit csnt-help-it.js to make the new terms work.
 function getYous() {
   return ["poppin'", "packin'", "schemin'"]
 }
