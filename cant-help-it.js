@@ -10,6 +10,7 @@ function getOptions() {
     "happy": "crappy",
     "glad": "mad",
     "thrivin'": "sad",
+    "schemin'": "disbelievin'",
   }
 
   const result = new Promise((resolve, reject) => {
@@ -28,6 +29,7 @@ function getThemProblem(you) {
     "happy": "crappy",
     "glad": "mad",
     "thrivin'": "sad",
+    "schemin'": "disbelievin'",
   }
 
   const result = new Promise((resolve, reject) => {
